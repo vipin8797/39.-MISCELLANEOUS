@@ -1,0 +1,15 @@
+{
+  "name": "39.-miscellaneous",
+  "version": "1.0.0",
+  "description": "| **Content**          | **Created & Practiced**           | **Libraries Used**       |\r |----------------------|-----------------------------------|--------------------------|\r | Post REQUEST         | Created and Practiced at 15-Jan   | Express                  |\r | OOP                  |          as dev1                  | Nodemone                 |\r | Factory Function     |                                   |                          |\r | New Operator         |                                   |                          |\r | Classes              |                                   |                          |\r | Inheritance          |                                   |                          |",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vipin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
